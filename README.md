@@ -4,7 +4,8 @@ Instagram filter made with SparkAR.
 This filter have mouth interaction to active special effect.
 
 Preview Image :
-https://user-images.githubusercontent.com/117787341/200712739-d4da40e3-1c5e-45da-aa90-79d4ae4d33e5.mov
+[<img src="https://user-images.githubusercontent.com/117787341/200712739-d4da40e3-1c5e-45da-aa90-79d4ae4d33e5.mov" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+
 
 
 
